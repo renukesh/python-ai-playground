@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+matplotlib
+requests
+fastapi
+uvicorn
+pytest
+ruff
+black
+jupyterlab
